@@ -33,6 +33,8 @@ In order to make the plugin do its work, your app needs to lines of HTML in the 
 
 Now, when you add your app to the homescreen and launch it from there, you should see a nice header that extends under the status bar.
 
+<img src="http://f.cl.ly/items/0A2A0T272d1n0s3F3J27/jqm-ios7statusbar@2x.png" width="414">
+
 
 License
 -------
