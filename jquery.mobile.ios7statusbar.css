@@ -1,0 +1,21 @@
+.ui-mobile body.standalone.translucent-statusbar [data-role=page] {
+    padding-top: 20px;
+}
+
+.ui-mobile body.standalone.translucent-statusbar [data-role=header] {
+    border-color: transparent;
+    margin-top: -20px;
+    border-top-width: 20px;
+}
+
+.ui-mobile body.standalone.translucent-statusbar [data-role=page].ui-header-fixed {
+    padding-top: 64px !important;
+}
+
+.ui-mobile body.standalone.translucent-statusbar [data-role=header].ui-header-fixed {
+    margin-top: 0;
+}
+
+.ui-panel-wrapper {
+    overflow-x: visible;
+}

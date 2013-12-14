@@ -1,0 +1,21 @@
+{
+  "name": "jquery.mobile.ios7statusbar",
+  "version": "0.1.0",
+  "description": "Apply iOS7 status bar style to a jQuery Mobile app",
+  "main": "jquery.mobile.ios7statusbar.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/philippbosch/jquery.mobile.ios7statusbar.git"
+  },
+  "keywords": [
+    "jquery",
+    "mobile",
+    "ios7",
+    "statusbar",
+  ],
+  "author": "Philipp Bosch <hello@pb.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/philippbosch/jquery.mobile.ios7statusbar/issues"
+  }
+}
